@@ -81,3 +81,4 @@ let arr = ['a', 'b', 'c', 'd', 'e'];
 //First is the slice method. Works the same as slice in strings. This returns a new array and does not modify the original.
 
 console.log(arr.slice(3)); //[d,e]
+//
